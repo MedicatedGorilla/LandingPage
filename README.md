@@ -1,2 +1,2 @@
 # LandingPage
-Landing Page Project, no js yet.
+Landing Page Project, no js.
